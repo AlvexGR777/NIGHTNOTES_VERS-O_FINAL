@@ -191,7 +191,7 @@ body {
         margin-bottom: 15px;
     }
 
-    /* 1. Transforma o cabeçalho roxo em coluna e centraliza tudo */
+   
     .playlist-header {
         flex-direction: column;
         text-align: center;
